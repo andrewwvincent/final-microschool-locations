@@ -176,6 +176,14 @@
 <coordinates>-80.41860, 26.10561</coordinates>
 </Point>
 </Placemark>
+<Placemark>
+<n>27 E Cota St.</n>
+<styleUrl>#Location</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b>  27 E Cota St, Santa Barbara, CA 93101]]></description>
+<Point>
+<coordinates>-119.69624395889555, 34.41884018562103 </coordinates>
+</Point>
+</Placemark>
 
   </Document>
 </kml>
