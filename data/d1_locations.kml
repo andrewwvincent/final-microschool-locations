@@ -402,7 +402,7 @@
 </Placemark>
 <Placemark>
 <n>D1 Training Dr. Phillips</n>
-<styleUrl>#Location</styleUrl>
+<styleUrl>#No-Contract</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 11444 S. Apopka Vineland Rd., Suite 105, Orlando, FL 32836]]></description>
 <Point>
 <coordinates>-81.5037250310253,28.3993784538181</coordinates>
@@ -546,7 +546,7 @@
 </Placemark>
 <Placemark>
 <n>D1 Training Greenwood Village</n>
-<styleUrl>#Location</styleUrl>
+<styleUrl>#Negotiations</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 6570 S Yosemite Street, Greenwood Village, CO 80111]]></description>
 <Point>
 <coordinates>-104.888072030742,39.5972468831884</coordinates>
@@ -602,7 +602,7 @@
 </Placemark>
 <Placemark>
 <n>D1 Training Huntington Beach</n>
-<styleUrl>#Negotiations</styleUrl>
+<styleUrl>#No-Contract</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 10188 Adams Ave, Huntington Beach, CA 92646]]></description>
 <Point>
 <coordinates>-117.950812286719,33.6720044496237</coordinates>
@@ -946,7 +946,7 @@
 </Placemark>
 <Placemark>
 <n>D1 Training Pleasanton</n>
-<styleUrl>#Location</styleUrl>
+<styleUrl>#Negotiations</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 4299 Rosewood Dr, Suite 100, Pleasanton, CA 94588]]></description>
 <Point>
 <coordinates>-121.872745757777,37.6994829405177</coordinates>
@@ -1034,7 +1034,7 @@
 </Placemark>
 <Placemark>
 <n>D1 Training Roseville</n>
-<styleUrl>#Location</styleUrl>
+<styleUrl>#Negotiations</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 410 Roseville Sq, Roseville, CA 95678]]></description>
 <Point>
 <coordinates>-121.275964346112,38.745432331139</coordinates>
@@ -1242,7 +1242,7 @@
 </Placemark>
 <Placemark>
 <n>D1 Training West Nashville</n>
-<styleUrl>#Location</styleUrl>
+<styleUrl>#Negotiations</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 2 City Blvd, Nashville, TN 37209]]></description>
 <Point>
 <coordinates>-86.8184364429784,36.152479002459</coordinates>
@@ -1314,7 +1314,7 @@
 </Placemark>
 <Placemark>
 <n>D1 Training Winter Garden</n>
-<styleUrl>#Negotiations</styleUrl>
+<styleUrl>#No-Contract</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 765 Garden Commerce Parkway, Winter Garden, FL 34787]]></description>
 <Point>
 <coordinates>-81.5675594175313,28.5537317295704</coordinates>

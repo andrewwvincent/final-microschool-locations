@@ -82,7 +82,7 @@
 </Placemark>
 <Placemark>
 <n>Redline Athletics - Culver City</n>
-<styleUrl>#Active</styleUrl>
+<styleUrl>#No-Contract</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 11520 Jefferson Blvd Suite 100, Culver City, CA 90230]]></description>
 <Point>
 <coordinates>-118.397882,33.988311</coordinates>
@@ -226,7 +226,7 @@
 </Placemark>
 <Placemark>
 <n>Redline Athletics - Manalapan</n>
-<styleUrl>#Active</styleUrl>
+<styleUrl>#No-Contract</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 28 Harrison Ave, Englishtown, NJ 07726, USA]]></description>
 <Point>
 <coordinates>-74.354454,40.297985</coordinates>

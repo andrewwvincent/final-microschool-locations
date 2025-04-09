@@ -9,46 +9,6 @@
       </IconStyle>
     </Style>
 <Placemark>
-<n>CERA</n>
-<styleUrl>#Active</styleUrl>
-<description><![CDATA[<b><u>Address:</u></b> 3300 Bryant Irvin Rd, Fort Worth, TX 76109]]></description>
-<Point>
-<coordinates>-97.412779,32.702523</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<n>WACC</n>
-<styleUrl>#No-Contract</styleUrl>
-<description><![CDATA[<b><u>Address:</u></b> 4300 Westbank Dr, West Lake Hills, TX 78746]]></description>
-<Point>
-<coordinates>-97.817274,30.27821</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<n>Asphalt Green - Upper East Side</n>
-<styleUrl>#Negotiations</styleUrl>
-<description><![CDATA[<b><u>Address:</u></b> 555 E 90th St, New York, NY 10128]]></description>
-<Point>
-<coordinates>-73.943485,40.778152</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<n>180 Maiden Lane</n>
-<styleUrl>#Negotiations</styleUrl>
-<description><![CDATA[<b><u>Address:</u></b> 180 Maiden Ln, New York, NY 10038]]></description>
-<Point>
-<coordinates>-74.005065,40.705272</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<n>Oxbridge Academy</n>
-<styleUrl>#Negotiations</styleUrl>
-<description><![CDATA[<b><u>Address:</u></b> 3151 N Military Trl, West Palm Beach, FL 33409]]></description>
-<Point>
-<coordinates>-80.112005,26.723592</coordinates>
-</Point>
-</Placemark>
-<Placemark>
 <n>101 Innovation Pl.</n>
 <styleUrl>#Negotiations</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 101 Innovation Pl, Santa Barbara, CA 93108]]></description>
@@ -65,27 +25,11 @@
 </Point>
 </Placemark>
 <Placemark>
-<n>600 Chapala Street</n>
-<styleUrl>#Location</styleUrl>
-<description><![CDATA[<b><u>Address:</u></b> 	600 Chapala St, Santa Barbara, CA 93101]]></description>
+<n>180 Maiden Lane</n>
+<styleUrl>#Negotiations</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 180 Maiden Ln, New York, NY 10038]]></description>
 <Point>
-<coordinates>-119.69791, 34.41728</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<n>F45 Training West Brandon</n>
-<styleUrl>#Location</styleUrl>
-<description><![CDATA[<b><u>Address:</u></b> 	1562 W Brandon Blvd, Brandon, FL 33510]]></description>
-<Point>
-<coordinates>-82.30794, 27.93889</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<n>Chelsea Piers Fitness</n>
-<styleUrl>#Location</styleUrl>
-<description><![CDATA[<b><u>Address:</u></b> 	265 Schermerhorn St, Brooklyn, NY 11217]]></description>
-<Point>
-<coordinates>-73.98321, 40.68825</coordinates>
+<coordinates>-74.005065,40.705272</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -94,6 +38,38 @@
 <description><![CDATA[<b><u>Address:</u></b> 	25 E Mason St, Santa Barbara, CA 93101]]></description>
 <Point>
 <coordinates>-119.6899, 34.41413</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>600 Chapala Street</n>
+<styleUrl>#Location</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 	600 Chapala St, Santa Barbara, CA 93101]]></description>
+<Point>
+<coordinates>-119.69791, 34.41728</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>600 Chapala Street</n>
+<styleUrl>#Location</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 	600 Chapala St, Santa Barbara, CA 93101]]></description>
+<Point>
+<coordinates>-119.69791, 34.41728</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>651 Paseo Nuevo</n>
+<styleUrl>#Negotiations</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 651 Paseo Nuevo, Unit 101, Santa Barbara, CA 93101]]></description>
+<Point>
+<coordinates>-119.69992, 34.41952</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>Arena Sports Redmond</n>
+<styleUrl>#Negotiations</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 9040 Willows Rd NE, Redmond, WA 98052]]></description>
+<Point>
+<coordinates>-122.14244, 47.68424</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -106,10 +82,26 @@
 </Placemark>
 <Placemark>
 <n>Asphalt Green - Battery Park City</n>
-<styleUrl>#Location</styleUrl>
+<styleUrl>#Negotiations</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 	212 N End Ave New York, NY 10282]]></description>
 <Point>
 <coordinates>-74.01494, 40.71617</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>Asphalt Green - Upper East Side</n>
+<styleUrl>#Negotiations</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 555 E 90th St, New York, NY 10128]]></description>
+<Point>
+<coordinates>-73.943485,40.778152</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>Brightworks SF</n>
+<styleUrl>#Negotiations</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 682 Schofield Rd, San Francisco, CA 94129]]></description>
+<Point>
+<coordinates>-122.46872, 37.80051</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -118,6 +110,30 @@
 <description><![CDATA[<b><u>Address:</u></b> 	3414 Culbreath Rd, Valrico, FL 33596]]></description>
 <Point>
 <coordinates>-82.24817, 27.89294</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>CERA</n>
+<styleUrl>#Active</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 3300 Bryant Irvin Rd, Fort Worth, TX 76109]]></description>
+<Point>
+<coordinates>-97.412779,32.702523</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>Chelsea Piers Fitness</n>
+<styleUrl>#Location</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 	265 Schermerhorn St, Brooklyn, NY 11217]]></description>
+<Point>
+<coordinates>-73.98321, 40.68825</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>F45 Training West Brandon</n>
+<styleUrl>#Location</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 	1562 W Brandon Blvd, Brandon, FL 33510]]></description>
+<Point>
+<coordinates>-82.30794, 27.93889</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -134,6 +150,14 @@
 <description><![CDATA[<b><u>Address:</u></b> 	6775 Chopra Ter, Orlando, FL 32827]]></description>
 <Point>
 <coordinates>-81.28198, 28.37162</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<n>Oxbridge Academy</n>
+<styleUrl>#Negotiations</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 3151 N Military Trl, West Palm Beach, FL 33409]]></description>
+<Point>
+<coordinates>-80.112005,26.723592</coordinates>
 </Point>
 </Placemark>
 <Placemark>
@@ -161,6 +185,14 @@
 </Point>
 </Placemark>
 <Placemark>
+<n>Studio 1016</n>
+<styleUrl>#Negotiations</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 1016 CLARE AVE, SUITE 5, WEST PALM BEACH, FL 33401]]></description>
+<Point>
+<coordinates>-80.06229, 26.70229</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <n>The Club at Cheval</n>
 <styleUrl>#No-Contract</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 	4312 Cheval Blvd, Lutz, FL 33558]]></description>
@@ -169,19 +201,19 @@
 </Point>
 </Placemark>
 <Placemark>
+<n>WACC</n>
+<styleUrl>#No-Contract</styleUrl>
+<description><![CDATA[<b><u>Address:</u></b> 4300 Westbank Dr, West Lake Hills, TX 78746]]></description>
+<Point>
+<coordinates>-97.817274,30.27821</coordinates>
+</Point>
+</Placemark>
+<Placemark>
 <n>Weston YMCA Family Center</n>
 <styleUrl>#No-Contract</styleUrl>
 <description><![CDATA[<b><u>Address:</u></b> 	20201 Saddle Club Rd, Weston, FL 33327]]></description>
 <Point>
 <coordinates>-80.41860, 26.10561</coordinates>
-</Point>
-</Placemark>
-<Placemark>
-<n>27 E Cota St.</n>
-<styleUrl>#Location</styleUrl>
-<description><![CDATA[<b><u>Address:</u></b>  27 E Cota St, Santa Barbara, CA 93101]]></description>
-<Point>
-<coordinates>-119.69624395889555, 34.41884018562103 </coordinates>
 </Point>
 </Placemark>
 
