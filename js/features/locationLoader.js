@@ -3,7 +3,7 @@ import { config } from '../../config.js';
 
 let map; // Will be initialized from main script
 let popup; // Global popup for hover states
-let activeStatusFilters = new Set(['#Location', '#Active', '#No-Contract', '#Negotiations']); // Track active status filters
+let activeStatusFilters = new Set(['#RE-Top-3', '#Marketing-Pick', '#Green-Green']); // Track active status filters
 
 // Initialize location loader
 export function initLocationLoader(mapInstance) {
@@ -166,10 +166,8 @@ function createStatusFilters() {
 
     // Define status types and their labels
     const statusTypes = [
-        { id: 'Active', label: 'Active Location' },
-        { id: 'Negotiations', label: 'In Discussions' },
-        { id: 'Location', label: 'Potential Partner' },
-        { id: 'No-Contract', label: 'Partnership Rejected' }
+        { id: 'RE-Top-3', label: 'Top 3 Locations' },
+        { id: 'Marketing-Pick', label: 'Marketing Top Pick' }
     ];
 
     // Create filters for each status type
@@ -467,11 +465,33 @@ function loadLocationLayers() {
                     filter: ['in', ['get', 'styleUrl'], ['literal', Array.from(activeStatusFilters)]]
                 });
 
+
                 // Add hover effect
                 map.on('mouseenter', layerId, (e) => {
                     map.getCanvas().style.cursor = 'pointer';
                     if (e.features.length > 0) {
-                        updatePopup(e.features[0]);
+                        const coordinates = e.features[0].geometry.coordinates.slice();
+                        const name = e.features[0].properties.name;
+                        const description = e.features[0].properties.description;
+
+                        // Format popup content
+                        const content = `
+                            <div class="popup-content">
+                                <h4>${name}</h4>
+                                <div>${description}</div>
+                            </div>
+                        `;
+
+                        // Ensure that if the map is zoomed out such that multiple
+                        // copies of the feature are visible, the popup appears
+                        // over the copy being pointed to.
+                        while (Math.abs(coordinates[0]) > 180) {
+                            coordinates[0] += coordinates[0] > 0 ? -360 : 360;
+                        }
+
+                        popup.setLngLat(coordinates)
+                            .setHTML(content)
+                            .addTo(map);
                     }
                 });
 

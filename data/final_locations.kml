@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="RE-Top-3">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <n>Paseo - Santa Barbara</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 651 Paseo Nuevo, Unit 101, Santa Barbara, CA 93101]]></description>
+      <Point>
+        <coordinates>-119.69991037368327, 34.41953418571387</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>27 E Cota St Santa Barbara</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 27 E Cota St, Santa Barbara, CA 93101]]></description>
+      <Point>
+        <coordinates>-119.69630833320353, 34.41879593303884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>600 Chapala St Santa Barbara</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 600 Chapala St, Santa Barbara, CA 93101]]></description>
+      <Point>
+        <coordinates>-119.69796940436797, 34.41724964036462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>6211 Edgewater Dr Orlando</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 6211 Edgewater Dr Orlando, FL 32810]]></description>
+      <Point>
+        <coordinates>-81.4198322738377, 28.614320829592533</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>952 W Fairbanks Ave Winter Park</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 952 W Fairbanks Ave Winter Park, FL 32789]]></description>
+      <Point>
+        <coordinates>-81.36177851616705, 28.593124764363843</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Guidepost Montessori Gear Lake</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 728 Gear Lake Ave., Orlando, FL 32803]]></description>
+      <Point>
+        <coordinates>-81.33044408733241, 28.55470647077722</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Oxbridge Academy</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 3151 N Military Trl, West Palm Beach, FL 33409]]></description>
+      <Point>
+        <coordinates>-80.1120552603892, 26.723795467868587</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>2250 Palm Beach Lakes Blvd West Palm Beach</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 2250 Palm Beach Lakes Blvd West Palm Beach, FL 33409]]></description>
+      <Point>
+        <coordinates>-80.09663396038951, 26.709850052933067</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Guidepost Montessori Palm Beach Gardens</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 353 Hiatt Drive, Palm Beach Gardens, FL 33418 US]]></description>
+      <Point>
+        <coordinates>-80.13367111805832, 26.810390191847194</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>D1 Training Bellaire</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 5300 N. Braeswood Blvd, Suite 44, Houston, TX 77096]]></description>
+      <Point>
+        <coordinates>-95.47870174497571, 29.67803713289127</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>The Zone - Houston</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 10371 Stella Link Rd, Houston, TX 77025]]></description>
+      <Point>
+        <coordinates>-95.43724233148272, 29.669734363978026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Guidepost Montessori Galleria</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 1331 S Voss Rd, Houston, TX 77057 US]]></description>
+      <Point>
+        <coordinates>-95.49979368915174, 29.754328948731516</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>180 Maiden Lane</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 180 Maiden Ln, New York, NY 10038]]></description>
+      <Point>
+        <coordinates>-74.00510860232359, 40.70542306935925</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>40 Broad St New York City</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 40 Broad St, New York, NY 10004]]></description>
+      <Point>
+        <coordinates>-74.01154523115929, 40.70625816797868</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Guidepost Montessori Williamsburg</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 717 Driggs Ave, Brooklyn, NY 11211 US]]></description>
+      <Point>
+        <coordinates>-73.9601073599945, 40.71337054293697</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>11309 Countryway Blvd Tampa</n>
+      <styleUrl>#Marketing-Pick</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 11309 Countryway Blvd Tampa, FL 33626]]></description>
+      <Point>
+        <coordinates>-82.62490423152221, 28.064190355796885</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>1107 Lithia Pinecrest Rd</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 1107 Lithia Pinecrest Rd Brandon, FL 33511]]></description>
+      <Point>
+        <coordinates>-82.26732717244339, 27.92119173447966</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>18936 N Dale Mabry Hwy</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 18936 N Dale Mabry Hwy, Lutz, FL 33548]]></description>
+      <Point>
+        <coordinates>-82.49235027244166, 28.153618660141618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>CERA</n>
+      <styleUrl>#Green-Green</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 3300 Bryant Irvin Rd, Fort Worth, TX 76109]]></description>
+      <Point>
+        <coordinates>-97.41357263140273, 32.70235128132025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Redline Athletics - Forsyth County</n>
+      <styleUrl>#Green-Green</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 1670 Redi Rd, Cumming, GA, USA]]></description>
+      <Point>
+        <coordinates>-84.16539018903248, 34.17793969195576</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Redline Athletics - Frisco</n>
+      <styleUrl>#Green-Green</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 145 Rose Lane, Frisco, TX 75034, USA]]></description>
+      <Point>
+        <coordinates>-96.9121731467326, 33.14971152297426</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Redline Athletics - Keller</n>
+      <styleUrl>#Green-Green</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 5951 Park Vista Circle, Keller, TX, USA]]></description>
+      <Point>
+        <coordinates>-97.25832224489021, 32.910777964219356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Redline Athletics - McKinney</n>
+      <styleUrl>#Green-Green</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 8410 W University Dr, McKinney, TX 75071]]></description>
+      <Point>
+        <coordinates>-96.72591074673069, 33.220458085287845</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>1302-1308 Pico Blvd Santa Monica</n>
+      <styleUrl>#Green-Green</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 1302-1308 Pico Blvd Santa Monica, CA 90405]]></description>
+      <Point>
+        <coordinates>-118.47731827554384, 34.01518298499382</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>D1 Training - Franklin</n>
+      <styleUrl>#Green-Green</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 7115 S Springs Dr, Franklin, TN 37067]]></description>
+      <Point>
+        <coordinates>-86.81512680432282, 35.95218799954803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Redline Athletics - Clarksburg</n>
+      <styleUrl>#Green-Green</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 22616 Gateway Center Drive, Clarksburg, MD, USA]]></description>
+      <Point>
+        <coordinates>-77.28130047353622, 39.23368605943337</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Redline Athletics - Kensington</n>
+      <styleUrl>#Green-Green</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 3835 Plyers Mill Rd, Kensington, MD 20895, USA]]></description>
+      <Point>
+        <coordinates>-77.07683486004959, 39.02998263043041</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

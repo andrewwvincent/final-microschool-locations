@@ -8,10 +8,10 @@ export class MapCore {
         this.onTileCheckNeeded = null;  // Callback for when tiles need to be checked
         this.searchMarker = null; // Add marker for search results
 
-        // Austin, TX coordinates and zoom level
+        // Santa Barbara, CA coordinates and zoom level
         this.initialView = {
-            center: [-97.7431, 30.2672],
-            zoom: 10
+            center: [-119.7173, 34.4241],
+            zoom: 11
         };
     }
 

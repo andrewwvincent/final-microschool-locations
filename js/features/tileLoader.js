@@ -39,8 +39,8 @@ function initializeMap() {
     map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/basic-v9',
-        center: [-97.7431, 30.2672], // Austin coordinates
-        zoom: 9
+        center: [-119.7173, 34.4241], // Santa Barbara coordinates
+        zoom: 11
     });
 
     // Add geocoder control
