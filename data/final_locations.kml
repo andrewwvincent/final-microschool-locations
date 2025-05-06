@@ -9,7 +9,7 @@
       </IconStyle>
     </Style>
     <Placemark>
-      <n>Paseo - Santa Barbara</n>
+      <n>Paseo Standalone</n>
       <styleUrl>#RE-Top-3</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 651 Paseo Nuevo, Unit 101, Santa Barbara, CA 93101]]></description>
       <Point>
@@ -25,11 +25,11 @@
       </Point>
     </Placemark>
     <Placemark>
-      <n>600 Chapala St Santa Barbara</n>
+      <n>Sonos</n>
       <styleUrl>#RE-Top-3</styleUrl>
-      <description><![CDATA[<b><u>Address:</u></b> 600 Chapala St, Santa Barbara, CA 93101]]></description>
+      <description><![CDATA[<b><u>Address:</u></b> 530 Chapala St, Santa Barbara, CA 93101]]></description>
       <Point>
-        <coordinates>-119.69796940436797, 34.41724964036462</coordinates>
+        <coordinates>-119.69743751577182, 34.41695119485526</coordinates>
       </Point>
     </Placemark>
     <Placemark>
