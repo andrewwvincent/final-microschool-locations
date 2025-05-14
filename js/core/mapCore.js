@@ -8,10 +8,10 @@ export class MapCore {
         this.onTileCheckNeeded = null;  // Callback for when tiles need to be checked
         this.searchMarker = null; // Add marker for search results
 
-        // Santa Barbara, CA coordinates and zoom level
+        // Tampa, FL coordinates and zoom level
         this.initialView = {
-            center: [-119.7173, 34.4241],
-            zoom: 11
+            center: [-82.5072, 27.9518],
+            zoom: 10
         };
     }
 

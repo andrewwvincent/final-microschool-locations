@@ -3,7 +3,7 @@ import { config } from '../../config.js';
 
 let map; // Will be initialized from main script
 let popup; // Global popup for hover states
-let activeStatusFilters = new Set(['#RE-Top-3', '#Marketing-Pick', '#Green-Green']); // Track active status filters
+let activeStatusFilters = new Set(['#Marketing1', '#Marketing2', '#Marketing3', '#Marketing-No', '#RE-Top-3', '#Green-Green']); // Track active status filters
 
 // Initialize location loader
 export function initLocationLoader(mapInstance) {
@@ -166,8 +166,12 @@ function createStatusFilters() {
 
     // Define status types and their labels
     const statusTypes = [
-        { id: 'RE-Top-3', label: 'Top 3 Locations' },
-        { id: 'Marketing-Pick', label: 'Marketing Top Pick' }
+        { id: 'Marketing1', label: 'Marketing Pick #1' },
+        { id: 'Marketing2', label: 'Marketing Pick #2' },
+        { id: 'Marketing3', label: 'Marketing Pick #3' },
+        { id: 'Marketing-No', label: 'Rejected' },
+        { id: 'RE-Top-3', label: 'RE Top 3 Locations' },
+        { id: 'Green-Green', label: 'Currently Green-Green'  }
     ];
 
     // Create filters for each status type

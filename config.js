@@ -3,8 +3,6 @@ export const config = {
     style: 'mapbox://styles/mapbox/streets-v12',
     accessToken: 'pk.eyJ1IjoiYW5kcmV3LXZpbmNlbnQiLCJhIjoiY202OW4wNm5yMGlubzJtcTJmMnBxb2x1cSJ9.jrR3Ucv9Nvtc-T_7aKIQCg',
     CSV: '../data/locations.csv',
-    center: [-119.7173, 34.4241], // Santa Barbara coordinates
-    zoom: 11, // Moderately zoomed in on Santa Barbara
     title: 'Heatmaps - Number of Children from Households above Different Income Levels',
     description: 'Heatmaps of density of children ages 5-14 from households above different income levels in the United States.',
     sideBarInfo: ["Location_Name"],
@@ -40,18 +38,24 @@ export const config = {
     },
     // Define status colors
     statusColors: {
-        '#RE-Top-3': '#f8ea01',    // Yellow for potential partners
-        '#Marketing-Pick': '#039147',      // Green for active locations
-        '#Green-Green': '#f8ea01'    // Yellow for potential partners
+        '#Marketing1': '#027804',    // Green for Number 1
+        '#Marketing2': '#f1f505',    // Yellow for Number 2
+        '#Marketing3': '#fa9393',    // Light Red for Number 3
+        '#Marketing-No': '#bf0202',    // Dark Red for No
+        '#RE-Top-3': '#727375',    // Grey for RE Top 3
+        '#Green-Green': '#a9ebaa'    // Light Green for Green-Green locations
     },
 
     // List of major cities/metro areas for quick navigation
     cities: [
-        {name: 'CA - Santa Barbara', coordinates: [-119.7173, 34.4241], zoom: 11},
+        {name: 'AZ - Phoenix', coordinates: [-111.91548899052682,33.57705672290719], zoom: 10},
+        {name: 'CA - Santa Barbara', coordinates: [-119.7173, 34.4241], zoom: 12},
         {name: 'FL - Orlando', coordinates: [-81.3871, 28.5431], zoom: 11},
         {name: 'FL - Tampa', coordinates: [-82.5072, 27.9518], zoom: 10},
         {name: 'FL - West Palm Beach', coordinates: [-80.0834, 26.7329], zoom: 11},
         {name: 'NY - NYC', coordinates: [-73.9685, 40.7543], zoom: 12},
+        {name: 'TX - Dallas', coordinates: [-96.76506510196516, 33.10530243278296], zoom: 9.5},
+        {name: 'TX - Fort Worth', coordinates: [-97.39730694639249, 32.710623440498374], zoom: 9.5},
         {name: 'TX - Houston', coordinates: [-95.3809, 29.7722], zoom: 9.5},
 
         

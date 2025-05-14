@@ -38,9 +38,7 @@ function initializeMap() {
     
     map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/mapbox/basic-v9',
-        center: [-119.7173, 34.4241], // Santa Barbara coordinates
-        zoom: 11
+        style: 'mapbox://styles/mapbox/basic-v9'
     });
 
     // Add geocoder control
