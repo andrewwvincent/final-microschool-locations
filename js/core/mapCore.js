@@ -10,8 +10,8 @@ export class MapCore {
 
         // Tampa, FL coordinates and zoom level
         this.initialView = {
-            center: [-82.5072, 27.9518],
-            zoom: 10
+            center: [-96.45968345601283, 39.99703365550713],
+            zoom: 4
         };
     }
 

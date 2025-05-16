@@ -57,6 +57,7 @@ export const config = {
         {name: 'TX - Dallas', coordinates: [-96.76506510196516, 33.10530243278296], zoom: 9.5},
         {name: 'TX - Fort Worth', coordinates: [-97.39730694639249, 32.710623440498374], zoom: 9.5},
         {name: 'TX - Houston', coordinates: [-95.3809, 29.7722], zoom: 9.5},
+        {name: 'WA - Seattle', coordinates: [-122.3322, 47.6108], zoom: 9.5},
 
         
 

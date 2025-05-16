@@ -297,5 +297,29 @@
         <coordinates>-77.07683486004959, 39.02998263043041</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <n>First United Methodist Church</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 1934 108th Ave NE, Bellevue, WA 98004]]></description>
+      <Point>
+        <coordinates>-122.19547484338693, 47.62821847975473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Marymoor Commerce Center</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 17824 NE 65th St Redmond, WA 98052]]></description>
+      <Point>
+        <coordinates>-122.10303568756738, 47.66451190806067</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>1003 7th Ave Kirkland</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 1003 7th Ave Kirkland, WA 98033]]></description>
+      <Point>
+        <coordinates>-122.191334301059, 47.68049008497439</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
