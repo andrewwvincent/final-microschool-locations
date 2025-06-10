@@ -130,7 +130,7 @@
     </Placemark>
     <Placemark>
       <n>5252 Ehrlich Rd Tampa</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing1</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 5252 Ehrlich Rd, Tampa, FL 33624]]></description>
       <Point>
         <coordinates>-82.53937133337078, 28.084262953374058</coordinates>
@@ -138,7 +138,7 @@
     </Placemark>
     <Placemark>
       <n>9907 N Dale Mabry Hwy Tampa</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing2</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 9907 N Dale Mabry Hwy Tampa, FL 33618]]></description>
       <Point>
         <coordinates>-82.50420976035834, 28.039945735380144</coordinates>
@@ -146,7 +146,7 @@
     </Placemark>
     <Placemark>
       <n>18936 N Dale Mabry Hwy</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing-No</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 18936 N Dale Mabry Hwy, Lutz, FL 33548]]></description>
       <Point>
         <coordinates>-82.49235027244166, 28.153618660141618</coordinates>
@@ -154,15 +154,7 @@
     </Placemark>
     <Placemark>
       <n>CERA</n>
-      <styleUrl>#RE-Top-3</styleUrl>
-      <description><![CDATA[<b><u>Address:</u></b> 3300 Bryant Irvin Rd, Fort Worth, TX 76109]]></description>
-      <Point>
-        <coordinates>-97.41357263140273, 32.70235128132025</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <n>CERA</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing1</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 3300 Bryant Irvin Rd, Fort Worth, TX 76109]]></description>
       <Point>
         <coordinates>-97.41357263140273, 32.70235128132025</coordinates>
@@ -170,7 +162,7 @@
     </Placemark>
     <Placemark>
       <n>Redline Athletics - Keller</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing2</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 5951 Park Vista Circle, Keller, TX, USA]]></description>
       <Point>
         <coordinates>-97.25832224489021, 32.910777964219356</coordinates>
@@ -178,7 +170,7 @@
     </Placemark>
     <Placemark>
       <n>D1 Training Alliance</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing3</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 9308 Sage Meadow Trail, Fort Worth, TX 76177]]></description>
       <Point>
         <coordinates>-97.31405593139704, 32.907631843301566</coordinates>
@@ -186,7 +178,7 @@
     </Placemark>
     <Placemark>
       <n>1520 G Ave Plano</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing2</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 1520 G Ave, Plano, TX 75074]]></description>
       <Point>
         <coordinates>-96.70480976022952, 33.02040588308302</coordinates>
@@ -194,7 +186,7 @@
     </Placemark>
     <Placemark>
       <n>3709 Ohio Dr Plano</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing3</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 3709 Ohio Dr, Plano, TX 75093]]></description>
       <Point>
         <coordinates>-96.78872406022876, 33.04647601776349</coordinates>
@@ -202,7 +194,7 @@
     </Placemark>
     <Placemark>
       <n>D1 Training Firewheel</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing1</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 475 Coneflower Dr, Garland, TX 75040]]></description>
       <Point>
         <coordinates>-96.61245291605346, 32.95328214463126</coordinates>
@@ -210,7 +202,7 @@
     </Placemark>
     <Placemark>
       <n>Redline Athletics - Frisco</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing2</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 145 Rose Lane, Frisco, TX 75034, USA]]></description>
       <Point>
         <coordinates>-96.9121731467326, 33.14971152297426</coordinates>
@@ -218,7 +210,7 @@
     </Placemark>
     <Placemark>
       <n>Redline Athletics - McKinney</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing1</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 8410 W University Dr, McKinney, TX 75071]]></description>
       <Point>
         <coordinates>-96.72591074673069, 33.220458085287845</coordinates>
@@ -226,7 +218,7 @@
     </Placemark>
     <Placemark>
       <n>D1 Training Frisco</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing3</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 4944 Preston Rd suite 252, Frisco, TX 75034]]></description>
       <Point>
         <coordinates>-96.80376454488439, 33.11888724750413</coordinates>
@@ -234,7 +226,7 @@
     </Placemark>
     <Placemark>
       <n>Redline Athletics - Scottsdale</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing2</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 14000 Hayden Rd, Scottsdale, AZ 85260]]></description>
       <Point>
         <coordinates>-111.90936664671977, 33.61294078192422</coordinates>
@@ -242,7 +234,7 @@
     </Placemark>
     <Placemark>
       <n>714 E Rose Ln Phoenix</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing3</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 714 E Rose Ln, Phoenix, AZ 85014]]></description>
       <Point>
         <coordinates>-112.06422884487304, 33.527784636114795</coordinates>
@@ -250,27 +242,18 @@
     </Placemark>
     <Placemark>
       <n>Guidepost Montessori North Scottsdale</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing1</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 20624 N 76th St, Scottsdale, AZ 85255 US]]></description>
       <Point>
         <coordinates>-111.91664971840466, 33.67306061552512</coordinates>
       </Point>
     </Placemark>
-
     <Placemark>
       <n>Redline Athletics - Forsyth County</n>
       <styleUrl>#Green-Green</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 1670 Redi Rd, Cumming, GA, USA]]></description>
       <Point>
         <coordinates>-84.16539018903248, 34.17793969195576</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <n>1302-1308 Pico Blvd Santa Monica</n>
-      <styleUrl>#Green-Green</styleUrl>
-      <description><![CDATA[<b><u>Address:</u></b> 1302-1308 Pico Blvd Santa Monica, CA 90405]]></description>
-      <Point>
-        <coordinates>-118.47731827554384, 34.01518298499382</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -299,7 +282,7 @@
     </Placemark>
     <Placemark>
       <n>First United Methodist Church</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing1</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 1934 108th Ave NE, Bellevue, WA 98004]]></description>
       <Point>
         <coordinates>-122.19547484338693, 47.62821847975473</coordinates>
@@ -307,7 +290,7 @@
     </Placemark>
     <Placemark>
       <n>Marymoor Commerce Center</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing-No</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 17824 NE 65th St Redmond, WA 98052]]></description>
       <Point>
         <coordinates>-122.10303568756738, 47.66451190806067</coordinates>
@@ -315,10 +298,42 @@
     </Placemark>
     <Placemark>
       <n>1003 7th Ave Kirkland</n>
-      <styleUrl>#RE-Top-3</styleUrl>
+      <styleUrl>#Marketing-No</styleUrl>
       <description><![CDATA[<b><u>Address:</u></b> 1003 7th Ave Kirkland, WA 98033]]></description>
       <Point>
         <coordinates>-122.191334301059, 47.68049008497439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>2210 Main St Santa Monica</n>
+      <styleUrl>#Marketing2</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 2210 Main St, Santa Monica, CA 90405]]></description>
+      <Point>
+        <coordinates>-118.48738499999999, 34.00545269230847</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>3201 Santa Monica Blvd Santa Monica</n>
+      <styleUrl>#Marketing3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 3201 Santa Monica Blvd Santa Monica, CA 90404]]></description>
+      <Point>
+        <coordinates>-118.4689190753044, 34.0385055190059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>1605 Ocean Front Santa Monica</n>
+      <styleUrl>#Marketing2</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 1605 Ocean Front Walk Santa Monica, CA 90401]]></description>
+      <Point>
+        <coordinates>-118.49562293014756, 34.01062788058807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Guidepost Montessori at Foothill Ranch</n>
+      <styleUrl>#Marketing-No</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 26462 Towne Centre Dr, Foothill Ranch, CA 92610 US]]></description>
+      <Point>
+        <coordinates>-117.66862140229598, 33.6805703156481</coordinates>
       </Point>
     </Placemark>
   </Document>
