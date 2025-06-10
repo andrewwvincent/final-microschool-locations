@@ -25,7 +25,7 @@ let labelToggles = {
 
 // Base URL for tile data - change this based on environment
 const BASE_URL = window.location.href.includes('github.io') 
-    ? '/dynamic-microschool-heatmaps'  // GitHub Pages path (with leading slash)
+    ? ''  // GitHub Pages path (with leading slash)
     : ''; // Local development path
 
 // Default colors for buckets
