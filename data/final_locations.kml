@@ -336,5 +336,29 @@
         <coordinates>-117.66862140229598, 33.6805703156481</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <n>781 Beach Street</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 781 Beach St, San Francisco, CA 94109]]></description>
+      <Point>
+        <coordinates>-122.42161949814778, 37.80639588911138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>2590 Jackson Street</n>
+      <styleUrl>#RE-Top-3</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 2690 Jackson St, San Francisco, CA 94115]]></description>
+      <Point>
+        <coordinates>-122.43941373103745, 37.79221917397775</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <n>Guidepost Montessori at Fort Mason</n>
+      <styleUrl>#Marketing1</styleUrl>
+      <description><![CDATA[<b><u>Address:</u></b> 3741 Buchanan St, San Francisco, CA 94123]]></description>
+      <Point>
+        <coordinates>-122.43402643288927, 37.804764940859016</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
